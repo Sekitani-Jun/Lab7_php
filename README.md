@@ -216,5 +216,4 @@ Contoh:
 - **Reusabilitas Kode (Code Reusability):** Kode yang sering digunakan cukup ditulis satu kali dalam function dan dapat dipanggil berulang kali di berbagai bagian program.
 - **Kemudahan Perawatan (Maintainability):** Jika ada bug atau perubahan logika, perbaikan cukup dilakukan pada function terkait tanpa perlu mengubah baris kode di banyak tempat.
 - **Modularitas & Keterbacaan:** Program berukuran besar dapat dipecah menjadi bagian-bagian kecil yang lebih terstruktur dan lebih mudah dipahami oleh tim pengembang.
-#   L a b 7 _ p h p  
- 
+#
